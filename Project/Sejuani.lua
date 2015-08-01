@@ -1,6 +1,6 @@
 -- Hi all! This is my first Project *lua for GOS i don't know how to code. I learn it myself
 -- If it has error, please feedback, and help me if u can. Thank everybody so much!
--- Sejuani by Luricz285
+-- Sejuani by Luri
 if GetObjectName(GetMyHero()) == "Sejuani" then
 --Show Menu
 Config = scriptConfig("Sejuani", "Sejuani.lua")
